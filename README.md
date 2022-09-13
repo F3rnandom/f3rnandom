@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy  <a href="https://f3rnandom.github.io/" target="blank">
-F3rnandom</a></h1>
+Fernando Mendoza</a></h1>
 <h3 align="center"> &#127474;&#127485 Apasionado por el desarrollo de la tecnología &#127474;&#127485</h3>
 
 <!-- Icon twitter follow 
