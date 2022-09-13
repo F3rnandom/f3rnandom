@@ -18,7 +18,7 @@ F3rnandom</a></h1>
 
 - 📝 Deseo escribir artículos sobre curiosidades de la tecnología <a href="https://f3rnandom.github.io/" target="blank">F3rnandom</a>
 
-- 📝 Curriculum Vitae [CV](https://f3rnandom.github.io/)
+- 📝 Curriculum Vitae [CV](https://1drv.ms/w/s!Ajst1nfMxghz1j1icvYPmweEHUPg?e=HotrUh)
 ---
 ## Soft Skills
 <div style="text-align:center;">
